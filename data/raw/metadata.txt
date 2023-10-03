@@ -1,0 +1,11 @@
+This text file aims to explain the contents of the csv file "2023-02-01_induced-earthquakes" found 
+in \data\raw\2023-02-01_induced-earthquakes.csv. This data was gathered from an API provided by the Royal
+Dutch Meteorological Society, which was accessed on 2023-02-01. It comprises of 9 columns (variables) and 1454 
+rows (measurements). The data contain information about the earthquake activity in the North-East of the
+Netherlands from the date the API was accessed since 1996-01-01. More specifically, the variables of the data 
+are the following: the earthquake dates (in form "YYYY-MM-DD"), times (in the Military system), locations (X & Y),
+coordinates (latitude and longitude), magnitudes (in units of local magnitude Ml), places (their names) and types
+(all types of earthquakes are "induced earthquakes" - as opposed to natural earthquakes, which are caused by natural
+tectonic activity, induced earthquakes are typically "caused by human activity that alters the stresses and strains 
+on Earth's crust" (source: Wikipedia, url: "https://en.wikipedia.org/wiki/Induced_seismicity")).
+
